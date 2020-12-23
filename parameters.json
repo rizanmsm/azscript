@@ -6,7 +6,7 @@
             "value": "eastus2"
         },
         "networkInterfaceName": {
-            "value": "winvm980"
+            "value": "winvm01-nic"
         },
         "networkSecurityGroupName": {
             "value": "winVM-nsg"
@@ -50,7 +50,7 @@
             ]
         },
         "publicIpAddressName": {
-            "value": "winVM-ip"
+            "value": "winVM01-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -59,7 +59,7 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "winVM"
+            "value": "winVM01"
         },
         "virtualMachineComputerName": {
             "value": "winVM"
